@@ -1,0 +1,8 @@
+name: ChatColor
+version: 1.1
+author: Shaky_HD
+main: de.shaky_hd.main.Main
+
+commands:
+   colorcodes:
+      aliases: [chatcolor]
